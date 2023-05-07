@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b30579a58574de4468e60c08ac0fb8f3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sofia Sans Semi Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02c5c4309e7e31a4a9e598b268c89f9a, type: 3}
+  - {fileID: 12800000, guid: a1ef16f418579954586ca0017658c2b7, type: 3}
+  - {fileID: 12800000, guid: 51b15637329d61341a3f35a3f1be5c9f, type: 3}
+  - {fileID: 12800000, guid: 21124bc5a062ca94286e923bb2667928, type: 3}
+  - {fileID: 12800000, guid: 40ea2a9a4a1769c459f471f9ce072276, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
