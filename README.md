@@ -83,7 +83,7 @@ In Roll the Ball, players control a ball using the **W, A, S, D keys or arrow ke
 **Progression:** Reach the end of the level while collecting the maximum number of coins without falling.
 
 Game Demo:  
-![RolltheBall-ezgif com-crop](https://github.com/user-attachments/assets/4c57acb7-3d61-4926-a642-9229de095d79)
+![RolltheBall-ezgif com-crop (1)](https://github.com/user-attachments/assets/92b8ac56-336d-4608-84fc-c55dedfb5e91)
 
 ## Sliding Game
 
